@@ -3,7 +3,7 @@ This is a node.js wrapper for the QuadrigaCX [API](https://www.quadrigacx.com/ap
 
 ### Install
 
-`npm install cointrader`
+`npm install quadrigacx`
 
 ```js
 var QuadrigaCX = require('quadrigacx');
